@@ -1,18 +1,3 @@
-
-# coding: utf-8
-
-# # Deep Learning & Art: Neural Style Transfer
-# 
-# Welcome to the second assignment of this week. In this assignment, you will learn about Neural Style Transfer. This algorithm was created by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576). 
-# 
-# **In this assignment, you will:**
-# - Implement the neural style transfer algorithm 
-# - Generate novel artistic images using your algorithm 
-# 
-# Most of the algorithms you've studied optimize a cost function to get a set of parameter values. In Neural Style Transfer, you'll optimize a cost function to get pixel values!
-
-# In[1]:
-
 import os
 import sys
 import scipy.io
